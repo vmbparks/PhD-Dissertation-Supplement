@@ -1,0 +1,13 @@
+10
+5
+10
+1.0
+9.5 P_95_Plio_Shift136km.dat
+7.4 P_74_Plio_Shift36km.dat
+6.4 P_64_Plio_Shift36km.dat
+5.4 P_54_Plio_Shift16km.dat
+4.3 P_43_Plio_Shift13km.dat
+3.3 P_33_Plio_Shift6km.dat
+2.4 P_24_Plio_MagShifted.dat
+1.5 P_15_LGM_MagShifted.dat
+0.0 P_NewModernPrecip.dat
